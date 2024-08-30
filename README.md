@@ -1,0 +1,1 @@
+Generate a sample audio file on Colab:  [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/bsneade/laser-cut-record/blob/master/Audio Sample.ipynb)
