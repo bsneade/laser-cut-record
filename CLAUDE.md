@@ -94,6 +94,9 @@ All live in the Configuration / Constants cells of `Audio to Vector.ipynb`.
 When adapting to a new laser, the parameters most likely to change are `cutoff_freq`,
 `dpi`, `gain_db`, `numGroovesPerFile`, and `rpm`.
 
+See [`LASER_SETTINGS.md`](LASER_SETTINGS.md) for recommended per-layer power/speed settings
+and a calibration procedure (100W CO2 on 3mm cast acrylic).
+
 ## Running / environment
 
 - Runs in **Jupyter** locally or on **Google Colab**.
